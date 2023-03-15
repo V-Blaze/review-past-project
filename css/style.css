@@ -1,66 +1,60 @@
 
 body {
-    background-color: #fdfdfd;
-    align-items: center;
-    justify-content: center;
-    display: block;
+  background-color: #fdfdfd;
+  align-items: center;
+  justify-content: center;
+  display: block;
 }
 
 #main {
-    margin: 30px 8px;
-    padding: 15px;
-    border-radius: 5px;
-    background: #eee;
-} 
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+}
 
 #title {
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    font-weight: bold;
-    font-size: xxx-large;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-weight: bold;
+  font-size: xxx-large;
 }
 
 .sub-title {
-    display: flex;
-    justify-content: center;
-    font-style: italic;
+  display: flex;
+  justify-content: center;
+  font-style: italic;
 }
 
 #image {
-    max-width: 100%;
-    display: block;
-    height: auto;
-    margin: 0 auto;
-    max-height: 20%;
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  max-height: 20%;
 }
 
 #img-caption {
-    display: flex;
-    justify-content: center;
-    padding-bottom: 40px;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 40px;
+  margin: 15px 0 5px 0;
 }
 
 #tribute-info {
-    display: flex;
-    justify-content: center;
-    font-size: x-large;
-    margin: 15px 10px 15px 10px;
+  display: flex;
+  justify-content: center;
+  font-size: x-large;
+  margin: 15px 10px 15px 10px;
 }
 
 .add-style {
-    display: flex;
-    justify-content: center;
-    margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
 }
 
 #tribute-link {
-    margin-left: 5px;
-}
-
-
- 
-
-#img-caption {
-    margin: 15px 0 5px 0;
+  margin-left: 5px;
 }
